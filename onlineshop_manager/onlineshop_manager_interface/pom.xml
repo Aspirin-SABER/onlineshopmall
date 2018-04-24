@@ -7,10 +7,10 @@
   </parent>
   <artifactId>onlineshop_manager_interface</artifactId>
   <dependencies>
-  	<dependency>
-  		<groupId>com.caster</groupId>
-  		<artifactId>onlineshop_manager_pojo</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  </dependencies>
+		<dependency>
+			<groupId>com.caster</groupId>
+			<artifactId>onlineshop_manager_pojo</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
 </project>
